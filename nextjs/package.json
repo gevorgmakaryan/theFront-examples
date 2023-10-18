@@ -1,8 +1,8 @@
 {
-  "name": "thefront-example--nextjs",
+  "name": "thefront-js--nextjs",
   "author": "maccarian",
   "email": "hi@maccarianagency.com",
-  "version": "1.0.0",
+  "version": "5.0.0",
   "private": true,
   "scripts": {
     "dev": "NODE_OPTIONS='--inspect' next dev",
@@ -41,13 +41,19 @@
     "@mui/icons-material": "^5.11.16",
     "@mui/material": "^5.12.0",
     "aos": "^2.3.4",
+    "card-validator": "^8.1.1",
+    "formik": "^2.2.9",
+    "jarallax": "^2.1.3",
     "next": "^13.3.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-countup": "^6.4.2",
     "react-dom": "^18.2.0",
+    "react-slick": "^0.29.0",
     "react-syntax-highlighter": "^15.5.0",
-    "react-visibility-sensor": "^5.1.1"
+    "react-visibility-sensor": "^5.1.1",
+    "slick-carousel": "^1.8.1",
+    "yup": "^1.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.21.4",
